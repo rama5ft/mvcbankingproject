@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcbankingproject", "mvcbankingproject\mvcbankingproject.csproj", "{8C76DC52-3078-46D8-A0B8-EECCF704E22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcbankingproject.Tests", "mvcbankingproject.Tests\mvcbankingproject.Tests.csproj", "{83B52067-19BD-46FA-99FB-BD2ED270DF26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C76DC52-3078-46D8-A0B8-EECCF704E22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C76DC52-3078-46D8-A0B8-EECCF704E22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C76DC52-3078-46D8-A0B8-EECCF704E22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C76DC52-3078-46D8-A0B8-EECCF704E22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B52067-19BD-46FA-99FB-BD2ED270DF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B52067-19BD-46FA-99FB-BD2ED270DF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B52067-19BD-46FA-99FB-BD2ED270DF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B52067-19BD-46FA-99FB-BD2ED270DF26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3991186B-5B2E-4524-8F86-9329C9AB48C1}
+	EndGlobalSection
+EndGlobal
